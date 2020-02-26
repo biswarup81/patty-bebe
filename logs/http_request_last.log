@@ -1,0 +1,204 @@
+## [2019-11-11 14:11:20] Request ##############################
+
+GET /feeds/discussions.rss HTTP/1.1
+Host: www.litecart.net
+User-Agent: LiteCart/2.1.6
+Content-Length: 0
+Connection: Close
+
+
+
+## [2019-11-11 14:11:21] Response — 9241 bytes transferred in 0.841 s ##############################
+
+HTTP/1.1 200 OK
+Date: Mon, 11 Nov 2019 13:11:21 GMT
+Content-Type: application/rss+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de3ae7f4aca2eb73e73cd3ceca055c4651573477880; expires=Tue, 10-Nov-20 13:11:20 GMT; path=/; domain=.litecart.net; HttpOnly
+Cache-Control: no-store, no-cache, must-revalidate
+Cf-Railgun: direct (starting new WAN connection)
+Content-Language: en
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Set-Cookie: LCSESSID=39da9066c307c960fe893f84df3975b3; path=/
+Vary: Accept-Encoding
+X-Powered-By: LiteCart.net
+X-Turbo-Charged-By: LiteSpeed
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-23=":443"; ma=86400
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 534082f19f81ecb7-DFW
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>LiteCart Forum Discussions</title>
+    <link>https://www.litecart.net/forums/index</link>
+    <description>The most recent forum activity.</description>
+    <language>en</language>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[What are the Date Valid fields used for?]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/10560/what-are-the-date-valid-fields-used-for</link>
+      <description></description>
+      <author><![CDATA[s22_marc]]></author>
+      <pubDate>Mon, 11 Nov 2019 10:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Uploading image info directly to MySQL]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/10558/uploading-image-info-directly-to-mysql</link>
+      <description></description>
+      <author><![CDATA[s22_marc]]></author>
+      <pubDate>Mon, 11 Nov 2019 00:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[No such file ent_view.inc.php]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/10552/no-such-file-ent-view-inc-php</link>
+      <description></description>
+      <author><![CDATA[tomydevon]]></author>
+      <pubDate>Sun, 10 Nov 2019 16:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[two 2.1.5 webshops are the same but not identical]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/10554/two-2-1-5-webshops-are-the-same-but-not-identical</link>
+      <description></description>
+      <author><![CDATA[bobdrinktech]]></author>
+      <pubDate>Sun, 10 Nov 2019 15:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Mixed Content Error]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/10539/mixed-content-error</link>
+      <description></description>
+      <author><![CDATA[thing2]]></author>
+      <pubDate>Sun, 10 Nov 2019 00:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA["You are now logged in as.."]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/10534/you-are-now-logged-in-as</link>
+      <description></description>
+      <author><![CDATA[xyncro]]></author>
+      <pubDate>Sat, 09 Nov 2019 15:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[How to change payment option icon quality?]]></title>
+      <link>https://www.litecart.net/en/forums/12/templates-and-css/10532/how-to-change-payment-option-icon-quality</link>
+      <description></description>
+      <author><![CDATA[alins]]></author>
+      <pubDate>Sat, 09 Nov 2019 15:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[Remove from navbar]]></title>
+      <link>https://www.litecart.net/en/forums/12/templates-and-css/10535/remove-from-navbar</link>
+      <description></description>
+      <author><![CDATA[xyncro]]></author>
+      <pubDate>Sat, 09 Nov 2019 14:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Input field problems in shipping module]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/10491/input-field-problems-in-shipping-module</link>
+      <description></description>
+      <author><![CDATA[division70]]></author>
+      <pubDate>Sat, 09 Nov 2019 09:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Cookie consent stopped working]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/10517/cookie-consent-stopped-working</link>
+      <description></description>
+      <author><![CDATA[patronbutiken]]></author>
+      <pubDate>Fri, 08 Nov 2019 16:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Is it wise to empty cache?]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/10518/is-it-wise-to-empty-cache</link>
+      <description></description>
+      <author><![CDATA[tonny]]></author>
+      <pubDate>Fri, 08 Nov 2019 16:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[error while updating cart]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/10508/error-while-updating-cart</link>
+      <description></description>
+      <author><![CDATA[quandour]]></author>
+      <pubDate>Fri, 08 Nov 2019 09:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[I have problem with photos on product page]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/10503/i-have-problem-with-photos-on-product-page</link>
+      <description></description>
+      <author><![CDATA[netsajt]]></author>
+      <pubDate>Thu, 07 Nov 2019 23:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Distorted order copy after upgrade to 2.2.0]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/10505/distorted-order-copy-after-upgrade-to-2-2-0</link>
+      <description></description>
+      <author><![CDATA[ae18]]></author>
+      <pubDate>Thu, 07 Nov 2019 20:39:52 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Suggested addition to Discount Codes module]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/10511/suggested-addition-to-discount-codes-module</link>
+      <description></description>
+      <author><![CDATA[s22_marc]]></author>
+      <pubDate>Thu, 07 Nov 2019 19:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Recommendation for forum emails]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/9931/recommendation-for-forum-emails</link>
+      <description></description>
+      <author><![CDATA[rob_lindman]]></author>
+      <pubDate>Thu, 07 Nov 2019 18:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Buy button in product listing]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/10492/buy-button-in-product-listing</link>
+      <description></description>
+      <author><![CDATA[patronbutiken]]></author>
+      <pubDate>Thu, 07 Nov 2019 09:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Change the color of the new sticker]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/10501/change-the-color-of-the-new-sticker</link>
+      <description></description>
+      <author><![CDATA[justino]]></author>
+      <pubDate>Thu, 07 Nov 2019 02:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Admin turns blank after upgrade to 2.2.0]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/10494/admin-turns-blank-after-upgrade-to-2-2-0</link>
+      <description></description>
+      <author><![CDATA[ae18]]></author>
+      <pubDate>Wed, 06 Nov 2019 21:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[iDEAL checkout will be updated for 2.2.0]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/10490/ideal-checkout-will-be-updated-for-2-2-0</link>
+      <description></description>
+      <author><![CDATA[bobdrinktech]]></author>
+      <pubDate>Wed, 06 Nov 2019 20:37:59 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
+
+
