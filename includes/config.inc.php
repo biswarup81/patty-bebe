@@ -36,11 +36,11 @@
 
 // Database
   define('DB_TYPE', 'mysql');
-  define('DB_SERVER', 'localhost');
+  define('DB_SERVER', '127.0.0.1');
   define('DB_USERNAME', 'root');
-  define('DB_PASSWORD', 'neptune');
-  define('DB_DATABASE', 'zigisa_lite');
-  define('DB_TABLE_PREFIX', 'zigisa_');
+  define('DB_PASSWORD', 'welcome1');
+  define('DB_DATABASE', 'pettybebe');
+  define('DB_TABLE_PREFIX', 'lc_');
   define('DB_CONNECTION_CHARSET', 'utf8');
   define('DB_PERSISTENT_CONNECTIONS', 'false');
 
@@ -113,11 +113,11 @@
   ini_set('error_log', FS_DIR_HTTP_ROOT . WS_DIR_LOGS . 'errors.log');
   ini_set('display_startup_errors', 'Off');
   ini_set('display_errors', 'Off');
-  if (in_array($_SERVER['REMOTE_ADDR'], array('127.0.0.1', '223.31.237.61'))) {
+  if (in_array($_SERVER['REMOTE_ADDR'], array('127.0.0.1', '::1'))) {
     error_reporting(E_ALL);
     ini_set('display_startup_errors', 'On');
     ini_set('display_errors', 'On');
   }
 
 // Password Encryption Salt
-  define('PASSWORD_SALT', 'XvV8F5KxIv76LD5oSR2V9zjoEsTCnzHphR9kOMbPavUn5rfJljFHuGdD04qEmgfg0o2iYGtEWHrpwPjtue2shOmSuCQkSQBKOlX45citEl04m9bapthfh3EZAwnVTU0Z');
+  define('PASSWORD_SALT', 'cvmoDAM4xiJ14NtZJ7FFYM40GHVwKgCUcYZjVAggI1g7ZUNqHN4rW2oXFllSvuyvSm2Ru7z7ehDC2uZMbLayszd6vVHbhLrG5jIJwWAOgdTXIqhO3umZq3axV0cVk5Wj');

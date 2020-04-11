@@ -5,12 +5,12 @@ ErrorDocument 401 "Access Forbidden"
 <IfModule mod_auth.c>
   AuthType Basic
   AuthName "Restricted Area"
-  AuthUserFile "/home/zigisa/public_html/PattyBebe/admin/.htpasswd"
+  AuthUserFile "C:/Bitnami/wampstack-7.3.16-2/apache2/htdocs/patty-bebe/admin/.htpasswd"
   Require valid-user
 </IfModule>
 <IfModule mod_auth_basic.c>
   AuthType Basic
   AuthName "Restricted Area"
-  AuthUserFile "/home/zigisa/public_html/PattyBebe/admin/.htpasswd"
+  AuthUserFile "C:/Bitnami/wampstack-7.3.16-2/apache2/htdocs/patty-bebe/admin/.htpasswd"
   Require valid-user
 </IfModule>

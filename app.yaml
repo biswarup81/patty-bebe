@@ -8,7 +8,7 @@ runtime: php72
 env_variables:
   # Replace USER, PASSWORD, DATABASE, and CONNECTION_NAME with the
   # values obtained when configuring your Cloud SQL instance.
-  CLOUDSQL_USER:
-  CLOUDSQL_PASSWORD:
-  CLOUDSQL_DSN: "mysql:dbname=DATABASE;unix_socket=/cloudsql/CONNECTION_NAME"
-# [END gae_cloudsql_mysql_env]
+  CLOUDSQL_USER:root
+  CLOUDSQL_PASSWORD:Nefer!123
+  CLOUDSQL_DSN: "mysql:dbname=my_store;unix_socket=/cloudsql/lateral-imagery-273907:us-central1:pettybebe"
+# [END gae_cloudsql_mysql_env]  
