@@ -1,0 +1,22 @@
+[11-Apr-2020 15:58:24 UTC] Warning: mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in ~/includes/library/lib_database.inc.php on line 12
+ ← ~/includes/library/lib_database.inc.php on line 130 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[11-Apr-2020 16:03:44 UTC] Warning: mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in ~/includes/library/lib_database.inc.php on line 12
+ ← ~/includes/library/lib_database.inc.php on line 130 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
