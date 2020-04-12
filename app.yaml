@@ -10,5 +10,5 @@ env_variables:
   # values obtained when configuring your Cloud SQL instance.
   CLOUDSQL_USER:root
   CLOUDSQL_PASSWORD:Nefer!123
-  CLOUDSQL_DSN: "mysql:dbname=my_store;unix_socket=/cloudsql/lateral-imagery-273907:us-central1:pettybebe"
+  CLOUDSQL_DSN: "mysql:dbname=PATTY_BEBE_STORE;unix_socket=/cloudsql/lateral-imagery-273907:us-central1:pettybebe"
 # [END gae_cloudsql_mysql_env]  
