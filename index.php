@@ -1,4 +1,8 @@
 <?php
+new mysqli(null, $username, $password,'PATTY_BEBE_STORE','/cloudsql/lateral-imagery-273907:us-central1:pettybebe');
+echo "Connected to the Database";
+
+?>
 /*!
  * LiteCart® 2.1.6
  *
@@ -12,7 +16,7 @@
  *
  * LiteCart is a registered trademark, property of T. Almroth.
  */
-
+/*
   require_once('includes/app_header.inc.php');
 
   if (settings::get('maintenance_mode')) {
@@ -66,3 +70,4 @@
   }
 
   require_once vmod::check(FS_DIR_HTTP_ROOT . WS_DIR_INCLUDES . 'app_footer.inc.php');
+  */
