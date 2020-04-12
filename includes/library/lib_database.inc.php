@@ -9,7 +9,9 @@
 
         $measure_start = microtime(true);
 
-        self::$_links[$link] = new mysqli($server, $username, $password, $database);
+        /*self::$_links[$link] = new mysqli($server, $username, $password, $database);*/
+        
+        self::$_links[$link] = new mysqli(null, $username, $password,'PATTY_BEBE_STORE','/cloudsql/lateral-imagery-273907:us-central1:pettybebe');
 
         if (($duration = microtime(true) - $measure_start) > 1) {
           error_log('['. date('Y-m-d H:i:s e').'] Warning: A MySQL connection established in '. number_format($duration, 3, '.', ' ') .' s.' . PHP_EOL, 3, FS_DIR_HTTP_ROOT . WS_DIR_LOGS . 'performance.log');

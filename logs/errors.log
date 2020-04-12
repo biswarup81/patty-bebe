@@ -20,3 +20,90 @@ Request: GET /patty-bebe/ HTTP/1.1
 Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
 User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 
+[12-Apr-2020 09:31:56 UTC] Warning: mysqli::__construct() expects parameter 5 to be int, string given in ~/includes/library/lib_database.inc.php on line 14
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[12-Apr-2020 09:31:56 UTC] Warning: mysqli::set_charset(): Couldn't fetch mysqli in ~/includes/library/lib_database.inc.php on line 60
+ ← ~/includes/library/lib_database.inc.php on line 97 in set_charset()
+ ← ~/includes/library/lib_database.inc.php on line 31 in set_encoding()
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[12-Apr-2020 09:31:56 UTC] Warning: Unknown MySQL character set for charset utf8 in ~/includes/library/lib_database.inc.php on line 98
+ ← ~/includes/library/lib_database.inc.php on line 31 in set_encoding()
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[12-Apr-2020 09:31:56 UTC] Warning: mysqli::query(): Couldn't fetch mysqli in ~/includes/library/lib_database.inc.php on line 136
+ ← ~/includes/library/lib_database.inc.php on line 33 in query()
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[12-Apr-2020 09:31:56 UTC] Warning: database::_error(): Couldn't fetch mysqli in ~/includes/library/lib_database.inc.php on line 236
+ ← ~/includes/library/lib_database.inc.php on line 33 in query()
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[12-Apr-2020 09:31:56 UTC] Warning: database::_error(): Couldn't fetch mysqli in ~/includes/library/lib_database.inc.php on line 236
+ ← ~/includes/library/lib_database.inc.php on line 33 in query()
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
+[12-Apr-2020 09:31:56 UTC] Fatal error:  - 
+select @@SESSION.sql_mode;
+ in ~/includes/library/lib_database.inc.php on line 236
+ ← ~/includes/library/lib_database.inc.php on line 137 in _error()
+ ← ~/includes/library/lib_database.inc.php on line 33 in query()
+ ← ~/includes/library/lib_database.inc.php on line 132 in connect()
+ ← ~/includes/library/lib_language.inc.php on line 86 in query()
+ ← ~/includes/library/lib_language.inc.php on line 20 in load()
+ ← ~/includes/classes/system.inc.php on line 38 in forward_static_call()
+ ← ~/includes/app_header.inc.php on line 37 in run()
+ ← ~/index.php on line 16 in require_once()
+Request: GET /patty-bebe/ajax/cart.json?_=1586633755264 HTTP/1.1
+Client: ::1 (PF0YQD6V.ea.ds.monsanto.com)
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+
